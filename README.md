@@ -1,2 +1,0 @@
-# ayilarasemiu
-python
